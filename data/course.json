@@ -1,0 +1,58 @@
+{
+  "term": "January IAP",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "4bd885ba-75e1-10e9-f75f-124e2da66800",
+      "e99ce068-4e56-275c-a4a1-4a3e69a4bfd8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8410db20-0c22-4039-bab4-8bbf9182e98c",
+    "website": "matrix-calculus-for-machine-learning-and-beyond-iap-2023"
+  },
+  "course_title": "Matrix Calculus for Machine Learning and Beyond",
+  "hide_download": true,
+  "site_short_id": "18.s096-iap-2023",
+  "mit_learn_topics": [],
+  "course_description": "We all know that calculus courses such as [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) and [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) cover univariate and vector calculus, respectively. Modern applications such as machine learning and large-scale optimization require the next big step, \"matrix calculus\" and calculus on arbitrary vector spaces.\n\nThis class covers a coherent approach to matrix calculus showing techniques that allow you to think of a matrix holistically (not just as an array of scalars), generalize and compute derivatives of important matrix factorizations and many other complicated-looking operations, and understand how differentiation formulas must be reimagined in large-scale computing.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S096",
+  "course_image_thumbnail": {
+    "content": "6022638f-03f2-43b5-9d10-027ea400c2ee",
+    "website": "matrix-calculus-for-machine-learning-and-beyond-iap-2023"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Readings",
+    "Instructor Insights",
+    "Editable Files"
+  ],
+  "site_uid": "e54b7126-df94-456a-95d2-3acf4f18a65f",
+  "site_url_path": "courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023"
+}
