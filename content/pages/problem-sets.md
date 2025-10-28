@@ -15,4 +15,4 @@ Problem set 1 is due on Lecture 4; problem set 2 is due on Lecture 7.
 
 {{% resource_link "7f5fae70-8417-403a-8f31-cb860e390ee3" "Problem Set 2 Solutions (PDF)" %}} ({{% resource_link "adc0dbf2-261c-4819-9746-a98d13f116b6" "TEX" %}})
 
-[Problem Set 2 Solutions (Jupyter notebook)](https://nbviewer.org/urls/draft.ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/mit18_s096iap23_pset2sol_i.ipynb)
+{{% resource_link "2108038e-8b02-46f3-8087-9af0c2c88067" "Problem Set 2 Solutions (Jupyter notebook)" %}}

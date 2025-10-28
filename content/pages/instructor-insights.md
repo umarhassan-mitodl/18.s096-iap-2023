@@ -7,7 +7,7 @@ uid: c2b5e29a-28a5-4999-b4db-92e9fa59b798
 ---
 ## Instructor Interview
 
-Below, Prof. Steven G. Johnson describes various aspects of how he and Prof. Alan Edelman taught *18.S096 Matrix Calculus for Machine Learning and Beyond* during the 2023 Independent Activities Period ([IAP](https://elo.mit.edu/iap/)).
+Below, Prof. Steven G. Johnson describes various aspects of how he and Prof. Alan Edelman taught *18.S096 Matrix Calculus for Machine Learning and Beyond* during the 2023 Independent Activities Period ({{% resource_link "ed64caae-ba97-4925-be4a-ea67d56a3811" "IAP" %}}).
 
 **OCW:** How do the practicalities of teaching an IAP class differ from those of teaching a full-semester course? (Aside from the fact that you can’t cover as much material, naturally!)
 
@@ -29,13 +29,13 @@ Often, I also draw inspiration from questions I've seen arising in real-world co
 
 ## Instructor Video
 
-Prof. Johnson's talk ["So You Think You Know How to Take Derivatives" (YouTube)](https://www.youtube.com/watch?v=-l7JHalBubw), which he delivered at a special [Math & Computation conference](https://math.mit.edu/events/ase60celebration/) in July 2023 in celebration of Prof. Edelman's 60th birthday, describes in more detail why he and Prof. Edelman decided to create this course.
+Prof. Johnson's talk {{% resource_link "33afebda-d542-42ef-962d-f5f843baac59" "\"So You Think You Know How to Take Derivatives\" (YouTube)" %}}, which he delivered at a special {{% resource_link "e4510103-9f0c-4df1-92e6-97a1d1f45307" "Math & Computation conference" %}} in July 2023 in celebration of Prof. Edelman's 60th birthday, describes in more detail why he and Prof. Edelman decided to create this course.
 
 ## Curriculum Information
 
 ### Prerequisites
 
-Courses in linear algebra (such as [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)) and multivariate calculus (such as [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/))
+Courses in linear algebra (such as {{% resource_link "a4eaac0d-6d85-4ce8-a78d-2ae9ce99d4c9" "*18.06 Linear Algebra*" %}}) and multivariate calculus (such as {{% resource_link "eef52057-2378-49ea-a937-e47025160784" "*18.02 Multivariable Calculus*" %}})
 
 ### Requirements Satisfied
 
