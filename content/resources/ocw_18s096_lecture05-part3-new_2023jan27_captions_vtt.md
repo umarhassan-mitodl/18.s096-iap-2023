@@ -5,8 +5,6 @@ draft: false
 file: /courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/ocw_18s096_lecture05-part3-new_2023jan27_captions.vtt
 file_size: 44810
 file_type: text/vtt
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
